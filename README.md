@@ -7,28 +7,30 @@
 
 ## Optimisations
 ### Body
-- Guidage du filament à l’intérieur du body, seule partie apparente au passage de la hobbed bolt.
-- Support du fanduct de Coldend décalé pour une impression sans support.
-- Fixation de la hotend par serrage de pièces mobiles.
-- Version 1.75mm et 3mm.
+- [x] Guidage du filament à l’intérieur du body au plus près de la hobbed bolt.
+- [x] Support du fanduct de la coldend décalé pour une impression sans support.
+- [x] Fixation de la hotend par serrage de pièces mobiles.
+- [x] Version 1.75mm
+- [ ] Version 3mm.
 
 ### Big Gear
-- Révision de l’emplacement de l’écroux M8 pour un ajustement parfais et dans la masse de la roue, pas déporté.
-- Décallage vers l’extérieur de la partie côté "Body" pour éviter une démultiplication du nombre de rondelle.
-- Retrait de 0.4mm à la 1ère couche pour éviter une étape de ponçage si elle est trop écrasée.
+- [x] Révision de l’emplacement de l’écroux M8 pour un ajustement parfais.
+- [x] Ecroux M8 pris dans la masse de la roue, pas déporté.
+- [x] Réduction du nombre de rondelle grace à l'ajout d'un déport coté "Body".
+- [x] Retrait en biseau de 0.4mm sur les premières couche pour éviter une étape de ponçage si elle est trop écrasée.
 
 ### Idler
-- Ajout d’un taquet pour faciliter l’écartement du "Idler".
-- Ouverture des trous sur la partie haute des vis de maintien du "Idler"  pour faire glisser les vis vers le haut afin de l’ouvrir complètement.
+- [x] Ajout d’un taquet pour faciliter l’écartement du "Idler".
+- [x] Ouverture des trous sur la partie haute des vis de maintien du "Idler" pour faire glisser les vis vers le haut afin de l’ouvrir complètement.
 
 ### Small Gear
-- Diminution du perçage de l’axe moteur pour qu’il soit placé en force après chauffage de l’axe.
+- [x] Diminution du trou de l’axe moteur pour qu’il soit placé en force (ou pas) après chauffage de l’axe.
 
 ### Fanduct print
-- Ajout de 2 fanduct de part et d'autre du "body" pour le print qui viennent se fixer sur les perçage inférieur du "Body" qui sont utilisé pour assemblage sur le "X-Carriage", inclinaison de ces derniers ajustable par conséquent.
-- Clipsage du ventilateur dans le bloc.
+- [x] Clipsage des ventilateurs dans les blocs, pas de vis.
+- [x] Ajout de 2 fanduct de part et d'autre du "body" pour le print qui viennent se fixer sur les perçage inférieur du "Body" qui sont utilisé pour assemblage sur le "X-Carriage", inclinaison de ces derniers ajustable par conséquent.
 
 ### Fanduct Coldend
-- Clipsage du ventilateur dans le bloc.
-- Version 30mm + Jhead.
-- Version 40mm + Hexagon.
+- [x] Clipsage du ventilateur dans le bloc.
+- [x] Version 30mm + Jhead.
+- [ ] Version 40mm + Hexagon.
