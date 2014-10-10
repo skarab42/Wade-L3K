@@ -14,8 +14,8 @@
 - [ ] Version 3mm.
 
 ### Big Gear
-- [x] Révision de l’emplacement de l’écroux M8 pour un ajustement parfais.
 - [x] Ecroux M8 pris dans la masse de la roue, pas déporté.
+- [x] Révision de l’emplacement de l’écroux M8 pour un ajustement parfais.
 - [x] Réduction du nombre de rondelle grace à l'ajout d'un déport coté "Body".
 - [x] Retrait en biseau de 0.4mm sur les premières couche pour éviter une étape de ponçage si elle est trop écrasée.
 
@@ -32,5 +32,5 @@
 
 ### Fanduct Coldend
 - [x] Clipsage du ventilateur dans le bloc.
-- [x] Version 30mm + Jhead.
 - [ ] Version 40mm + Hexagon.
+- [x] Version 30mm + Jhead.
