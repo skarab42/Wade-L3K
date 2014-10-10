@@ -5,6 +5,7 @@
 <img src="http://pix.slic.it/p/qq" width="200px"/>
 <img src="http://pix.slic.it/p/qr" width="200px"/>
 
+## Optimisations
 ### Body
 - Guidage du filament à l’intérieur du body, seule partie apparente au passage de la hobbed bolt.
 - Support du fanduct de Coldend décalé pour une impression sans support.
