@@ -1,9 +1,9 @@
 ## WORK IN PROGRESS ... DO NOT PRINT !?!
 
 ## Images
-<img src="http://pix.slic.it/p/qp" width="200px"/>
-<img src="http://pix.slic.it/p/qq" width="200px"/>
-<img src="http://pix.slic.it/p/qr" width="200px"/>
+<img src="http://pix.slic.it/p/s1" width="200px"/>
+<img src="http://pix.slic.it/p/s2" width="200px"/>
+<img src="http://pix.slic.it/p/s3" width="200px"/>
 
 ## Optimisations
 ### Body
@@ -32,5 +32,5 @@
 
 ### Fanduct Coldend
 - [x] Clipsage du ventilateur dans le bloc.
-- [ ] Version 40mm + Hexagon.
+- [x] Version 40mm + Hexagon.
 - [x] Version 30mm + Jhead.
