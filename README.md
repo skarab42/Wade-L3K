@@ -1,4 +1,4 @@
-## WORK IN PROGRESS ... DO NOT PRINT !?!
+## BETA VERSION ... PRINT AT YOUR OWN RISK !?!
 
 ## Images
 <img src="http://pix.slic.it/p/s1" width="200px"/>
