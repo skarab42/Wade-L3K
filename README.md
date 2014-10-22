@@ -11,7 +11,7 @@
 - [x] Support du fanduct de la coldend décalé pour une impression sans support.
 - [x] Fixation de la hotend par serrage de pièces mobiles.
 - [x] Version 1.75mm
-- [ ] Version 3mm.
+- [x] Version 3mm.
 
 ### Big Gear
 - [x] Ecroux M8 pris dans la masse de la roue, pas déporté.
