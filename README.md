@@ -1,4 +1,3 @@
-## Images
 <img src="http://pix.slic.it/p/s1" width="200px"/>
 <img src="http://pix.slic.it/p/s2" width="200px"/>
 <img src="http://pix.slic.it/p/s3" width="200px"/>
